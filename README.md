@@ -1,6 +1,6 @@
-url del proyecto: https://vue-questions-app.netlify.app/
 
-# questions-app
+questionsApp
+url del proyecto: https://vue-questions-app.netlify.app/
 
 ## Project setup
 ```
